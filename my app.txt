@@ -5,3 +5,5 @@ chat
 upload photo
 
 upload file
+
+add audio , video
